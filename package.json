@@ -7,6 +7,9 @@
   "author": "Kirill Kuznetsov <kirill.desirehd@gmail.com>",
   "license": "MIT",
   "private": false,
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "rollup --config ./rollup.config.js",
     "flow": "flow --show-all-errors",

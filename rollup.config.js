@@ -16,6 +16,6 @@ export default {
     }),
     nodeResolve({}),
     commonjs(),
-    terser({ mangle: false }),
+    terser(),
   ],
 };

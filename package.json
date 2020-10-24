@@ -1,0 +1,17 @@
+{
+  "name": "infinite-timeout",
+  "version": "0.0.1",
+  "description": "setTimeout without int32 limits",
+  "main": "dist/index.js",
+  "repository": "git@github.com:miuirussia/infinite-timeout.git",
+  "author": "Kirill Kuznetsov <kirill.desirehd@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "rollup --config ./rollup.config.js"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.136.0",
+    "rollup": "^2.32.1"
+  }
+}

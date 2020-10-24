@@ -1,6 +1,6 @@
 {
   "name": "@kdeveloper/infinite-timeout",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "setTimeout without int32 limits",
   "main": "dist/main.js",
   "repository": "git@github.com:miuirussia/infinite-timeout.git",

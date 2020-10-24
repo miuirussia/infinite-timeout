@@ -1,5 +1,5 @@
 {
-  "name": "infinite-timeout",
+  "name": "@kdeveloper/infinite-timeout",
   "version": "0.0.1",
   "description": "setTimeout without int32 limits",
   "main": "dist/main.js",
